@@ -1,4 +1,4 @@
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 👉 **3D Swag Generation**: Generate unique 3D shirts/swag items dynamically
 
