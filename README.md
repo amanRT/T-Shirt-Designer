@@ -20,19 +20,7 @@
 
 👉 **Framer Motion Animation**: Implement framer motion animations for smooth transitions between different 3D models.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Vite
-- Tailwind CSS
-- Node.js
-- Express.js
-- OpenAI
-- Framer Motion
-- Valtio
 
 ![image](https://github.com/amanRT/T-Shirt-Designer/assets/67583037/003dadd5-6117-4df9-af74-91c6e8805768)
 ![image](https://github.com/amanRT/T-Shirt-Designer/assets/67583037/7edb31a2-bc3a-4209-9b90-5dc1e9d560b1)
